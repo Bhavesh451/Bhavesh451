@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Bhavesh Patil 👋
 
-<!--
-**Bhavesh451/Bhavesh451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer (React + Java)
 
-Here are some ideas to get you started:
+I am a Computer Engineering student passionate about building real-world web applications and becoming a professional Full Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+- Backend: Java (Learning)
+- Tools: Git, GitHub, VS Code
+
+## 📌 Projects
+- Netflix Clone
+- Personal Portfolio Website
+- Landing Page
+- Pizza Website
+- Temperature Converter
+
+## 🎯 Current Focus
+- Building Full Stack Projects
+- Learning Java Backend Development
+- Preparing for Software Developer roles
+
+## 📫 Contact
+Email: bhaveshpatil11545@gmail.com
+LinkedIn: https://www.linkedin.com/in/bhavesh-patil-8a7ba4318?
